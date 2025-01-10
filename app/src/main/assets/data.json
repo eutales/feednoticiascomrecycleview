@@ -1,0 +1,47 @@
+[
+  {
+    "authorName": "João da Neves",
+    "authorImageUrl": "https://randomuser.me/api/portraits/men/66.jpg",
+    "newsImageUrl": "https://fastly.picsum.photos/id/447/536/354.jpg?hmac=WBmTWaIUySMIDKNZJrFpijOmkFXeySjaVc81UzF8XfU",
+    "newsTitle": "Alimentação Saudável Previne Doenças",
+    "newsDescription": "Uma dieta equilibrada rica em frutas, legumes e grãos integrais pode prevenir doenças crônicas. Especialistas explicam como criar um plano alimentar saudável. Descubra como melhorar sua saúde!",
+    "newsDate": "03-01-2025",
+    "link": "https://www.uai.com.br/"
+  },
+  {
+    "authorName": "Maria Joana",
+    "authorImageUrl": "https://randomuser.me/api/portraits/women/34.jpg",
+    "newsImageUrl": "https://fastly.picsum.photos/id/991/536/354.jpg?hmac=hkNxNOuysrkAnAfylmUobs0-AyJIp70mMVpmQMDLZas",
+    "newsTitle": "Sono de Qualidade Melhora Saúde",
+    "newsDescription": "Pesquisas mostram que um sono de qualidade é essencial para a saúde. Descubra dicas práticas para melhorar seu descanso.",
+    "newsDate": "24-04-2024",
+    "link": "https://www.uai.com.br/"
+  },
+  {
+    "authorName": "Alex Oliveira",
+    "authorImageUrl": "https://randomuser.me/api/portraits/men/76.jpg",
+    "newsImageUrl": "https://fastly.picsum.photos/id/729/536/354.jpg?hmac=2w_Fr-PmHejgKkQutSxtALszyq2aSwHUw2HajRvw7t0",
+    "newsTitle": "Meditação Reduz Ansiedade",
+    "newsDescription": "A meditação pode reduzir significativamente a ansiedade e estresse. Veja como começar a praticar.",
+    "newsDate": "23-03-2024",
+    "link": "https://www.uai.com.br/"
+  },
+  {
+    "authorName": "Natália Machado",
+    "authorImageUrl": "https://randomuser.me/api/portraits/women/20.jpg",
+    "newsImageUrl": "https://fastly.picsum.photos/id/59/536/354.jpg?hmac=HQ1B2iVRsA2r75Mxt18dSuJa241-Wggf0VF9BxKQhPc",
+    "newsTitle": "Atleta brasileiro conquista medalha de ouro em competição internacional",
+    "newsDescription": "Um atleta brasileiro brilhou em uma competição internacional ao conquistar a medalha de ouro em sua modalidade. Saiba mais sobre essa grande conquista.",
+    "newsDate": "22-02-2024",
+    "link": "https://www.uai.com.br/"
+  },
+  {
+    "authorName": "André Gonçalves",
+    "authorImageUrl": "https://randomuser.me/api/portraits/men/32.jpg",
+    "newsImageUrl": "https://fastly.picsum.photos/id/21/536/354.jpg?hmac=x7VauRBk07Ndu9Ts8bn4mgQtIkTR9_mltTFqaWiMuyA",
+    "newsTitle": "Estilista conceituado fala dos males causados ao utilizar sapatos de salto alto",
+    "newsDescription": "O estilista internacional, André Gonçalves, alertou sobre os riscos dos sapatos de salto alto. Eles podem causar problemas ortopédicos, como joanetes, fascite plantar e até doenças degenerativas.",
+    "newsDate": "21-02-2024",
+    "link": "https://www.uai.com.br/"
+  }
+]
